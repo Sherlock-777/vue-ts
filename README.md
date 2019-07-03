@@ -1,2 +1,3 @@
 # vue-ts
-构建vue+typescript模板
+
+快速构建 vue+typescript 模板
